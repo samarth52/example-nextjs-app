@@ -1,5 +1,5 @@
 // app/hello-world/layout.jsx
-export default function RootLayout({ children }) {
+export default function Layout({ children }) {
   return (
     <div
       style={{
